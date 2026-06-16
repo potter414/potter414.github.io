@@ -2,4 +2,4 @@
 
 <p style= "color: red;">This is a gamesite that has some fun games!</p>
 
-<a href="happy/happyface.png"> Click here to download!</a>
+<a href="happy/happyface.png" download> Click here to download!</a>
