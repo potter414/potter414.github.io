@@ -2,7 +2,7 @@
 
 <nav class="navbar">
   <div class="logo">Pages</div>
-  <ul class=""
+  <ul class="My Website"
       <li><a href="#downloads" class="active">Downloads</a></li>
   </ul>
 </nav>
