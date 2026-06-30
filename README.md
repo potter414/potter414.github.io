@@ -3,7 +3,7 @@
 <p style= "color: red;">This is a gamesite that has games I have created :D</p>
 
 <a href="https://drive.google.com/uc?expor=download&id=1Q_RR8DM4ozlpOkRnBr0At4rRvqAx_hom">
-  <img src="images/flappybirdicon.png" width="250" height="250" style="border: 10px solid black;" alt="flappybird">
+  <img src="images/flappybirdicon.png" width="250" height="250" style="border: 5px solid black; border-radius: 8px;" alt="flappybird">
 </a>
 
 <a href="https://drive.google.com/uc?expor=download&id=1Q_RR8DM4ozlpOkRnBr0At4rRvqAx_hom" download> Click here to download the best flappy bird game!</a> 
