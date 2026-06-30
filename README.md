@@ -15,6 +15,6 @@
 <a href="https://drive.google.com/uc?expor=download&id=1Q_RR8DM4ozlpOkRnBr0At4rRvqAx_hom" target="_blank" download> Click here to download flappy bird!</a> 
 
 <a href="https://discord.gg/bmjMGZQh7" target="_blank"> 
-  <img src="images/discordservericon.png" width="250" height="250" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
+  <img src="images/pottergamesdiscord.png" width="250" height="250" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
 </a>
 
