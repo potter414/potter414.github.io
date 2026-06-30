@@ -1,8 +1,8 @@
-# Mr. Harry Potter's games
+# Potter's games
 
 <nav class="navbar">
-  <div class="logo">MyWebsite</div>
-  <ul class="nav-links"
+  <div class="logo">Pages</div>
+  <ul class=""
       <li><a href="#downloads" class="active">Downloads</a></li>
   </ul>
 </nav>
