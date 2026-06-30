@@ -1,5 +1,11 @@
 # Mr. Harry Potter's games
 
+<nav class="navbar">
+  <div class="logo">MyWebsite</div>
+  <ul class="nav-links"
+      <li><a href="#downloads" class="active">Downloads</a></li>
+  </ul>
+</nav>
 <p style= "color: red;">This is a gamesite that has games I have created :D</p>
 
 <a href="https://drive.google.com/uc?expor=download&id=1Q_RR8DM4ozlpOkRnBr0At4rRvqAx_hom" target="_blank">
