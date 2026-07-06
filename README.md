@@ -3,7 +3,7 @@
 <nav class="navbar">
   <div class="logo">Pages</div>
   <ul class="My Website">
-      <li><a href="#downloads" class="active">Downloads</a></li>
+      <li><a href="downloads.html" class="active">Downloads</a></li>
   </ul>
 </nav>
 <p style= "color: red;">This is a gamesite that has games I have created :D</p>
