@@ -3,7 +3,7 @@
 <nav class="navbar">
   <div class="logo">Pages</div>
   <ul class="My Website">
-      <li><a href="README.html" class="active">Home</a></li>
+      <li><a href="README.md" class="active">Home</a></li>
   </ul>
 </nav>
 
