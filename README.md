@@ -1,6 +1,5 @@
 # Potter's games
-<!DOCTYPE html>
-<html lang="en">
+
 <nav class="navbar">
   <div class="logo">Pages</div>
   <ul class="My Website">
@@ -15,5 +14,3 @@
 <a href="https://discord.gg/bmjMGZQh7" target="_blank"> 
   <img src="images/pottergamesdiscord.png" width="250" height="250" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
 </a>
-
-</html>
