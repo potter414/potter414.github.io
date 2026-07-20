@@ -7,15 +7,16 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+    border-radius: 2px;
     display: flex;
-    background-color: #2ecfb7;
+    background: linear-gradient(to right, #155799, #159957);
   }
 .navbar li a {
     display: block;
-    color: black;
+    color: white;
     padding: 14px 20px;
     text-decoration: none;
   }
 .navbar li a:hover{
-    background-color: white;
+    filter: brightness(0.85);
   }
