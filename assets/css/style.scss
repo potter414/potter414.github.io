@@ -1,21 +1,21 @@
+---
+---
+
 @import "{ { site.theme}}"
 
-  .navbar ul
-  {
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     background-color: #2ecfb7;
   }
-  .navbar li a 
-  {
+.navbar li a {
     display: block;
     color: black;
     padding: 14px 20px;
     text-decoration: none;
   }
-  .navbar li a:hover
-  {
+.navbar li a:hover{
     background-color: white;
   }
