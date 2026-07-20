@@ -1,8 +1,7 @@
 # Mr. Harry Potter's games
 
 <nav class="navbar">
-  <div class="logo">Pages</div>
-  <ul class="My Website">
+  <ul>
       <li><a href="https://potter414.github.io/" class="active">Home</a></li>
   </ul>
 </nav>
