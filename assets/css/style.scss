@@ -21,3 +21,10 @@
 .navbar li a:hover{
     filter: brightness(0.85);
   }
+
+.footer {
+    flex-shrink: 0;
+    background: linear-gradient(to right, #155799, #159957);
+    margin: 0;
+    padding: 0;
+}
