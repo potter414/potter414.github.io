@@ -6,7 +6,7 @@
       <li><a href="downloads.html" class="active">Downloads</a></li>
       <li><a class="active">Favorited Games</a></li>
       <li><a class="active">Popular Games</a></li>
-    <li><a class="active">Instructions</a></li>
+      <li><a class="active">Instructions</a></li>
   </ul>
 </nav>
 
