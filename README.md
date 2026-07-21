@@ -20,3 +20,9 @@
 <a href="https://discord.gg/bmjMGZQh7" target="_blank"> 
   <img src="images/pottergamesdiscord.png" width="100" height="100" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
 </a>
+
+<footer>
+  <a href="https://discord.gg/bmjMGZQh7" target="_blank"> 
+  <img src="images/pottergamesdiscord.png" width="100" height="100" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
+</a>
+</footer>
