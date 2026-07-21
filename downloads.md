@@ -1,4 +1,4 @@
-# Mr. Harry Potter's games
+# Potter's games
 
 <nav class="navbar">
   <ul>
