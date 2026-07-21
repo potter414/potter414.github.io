@@ -2,7 +2,10 @@
 
 <nav class="navbar">
   <ul>
+      <li><a href="https://potter414.github.io/" class="active">Home</a></li>
       <li><a href="downloads.html" class="active">Downloads</a></li>
+      <li><a class="active">Favorited Games</a></li>
+      <li><a class="active">Popular Games</a></li>
   </ul>
 </nav>
 
