@@ -22,7 +22,7 @@
 </a>
 
 <footer class="footer">
-  <a href="https://discord.gg/bmjMGZQh7" target="_blank"> 
-  <img src="images/pottergamesdiscord.png" width="100" height="100" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
-</a>
+  <a href="https://discord.gg/bmjMGZQh7" target="_blank" align ="center"> 
+  <img src="images/pottergamesdiscord.png" width="95" height="95" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server">
+  </a>
 </footer>
