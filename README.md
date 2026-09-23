@@ -17,7 +17,7 @@
 </a>
 </div>
 
-[Click to play Flappy Bird](flappybird/build/web/index/html).
+[Click to play Flappy Bird](flappybird/build/web/index.html).
 
 <a href="https://potter414.github.io/flappybird/build/web/index.html">
   <img src="images/flappybirdicon.png">
