@@ -25,5 +25,6 @@
 
 <footer class="footer">
   <a href="https://discord.gg/sNRahuZ5rD” target="_blank"> 
-  <img src="images/pottergamesdiscord.png" width="95" height="95" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server"> </a>
+  <img src="images/pottergamesdiscord.png" width="95" height="95" style="border: 5px solid black; border-radius: 8px;" alt="Discord Server"> 
+  </a>
 </footer>
