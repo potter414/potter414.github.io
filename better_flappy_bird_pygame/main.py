@@ -270,9 +270,9 @@ async def main():
                 draw_screen()   
                 draw_game_over_text()   
         
-        pygame.display.flip()   
+        pygame.display.flip()  
+        clock.tick(60) 
         await asyncio.sleep(0)
-        clock.tick(60)  
-        
+          
+    pygame.quit()
 asyncio.run(main())
-pygame.quit()
