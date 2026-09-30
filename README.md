@@ -17,9 +17,9 @@
 </a>
 </div>
 
-[Click to play Flappy Bird](build/web/index.html).
+[Click to play Flappy Bird](better_flappy_bird_pygame/build/web/index.html).
 
-<a href="https://potter414.github.io/build/web/index.html">
+<a href="https://potter414.github.io/better_flappy_bird_pygame/build/web/index.html">
   <img src="images/flappybirdicon.png">
 </a>
 
