@@ -11,13 +11,6 @@
 </nav>
 
 <p style= "color: red;">This is a gamesite that has games I have created :D</p>
-<div class="image-container">
-<a href="https://potter414.github.io/downloads/main.exe" download>
-  <img src="images/flappybirdicon.png" width="250" height="250" style="border: 5px solid black; border-radius: 8px;" alt="flappybird">
-</a>
-</div>
-
-[Click to play Flappy Bird](better_flappy_bird_pygame/build/web/index.html).
 
 <a href="https://potter414.github.io/better_flappy_bird_pygame/build/web/index.html">
   <img src="images/flappybirdicon.png">
