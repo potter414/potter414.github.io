@@ -164,11 +164,8 @@ async def main():
     while running:  
         # Handle events 
         for event in pygame.event.get():    
-            if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_x): 
-                running = False 
-            elif event.type == pygame.KEYDOWN and event.key == pygame.K_r and game_over:    
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_r and game_over:    
                 initialize_game()   
-        
             # Extra speed when jumped    
             elif event.type == pygame.KEYDOWN and event.key == pygame.K_UP and not game_started and not jump_extra_pipe_speed >= 30:    
                 jump_extra_pipe_speed += 0.1    
